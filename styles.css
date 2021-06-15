@@ -1,0 +1,53 @@
+#title {
+    text-align: center;
+}
+
+#view-mode {
+    margin: 5px auto;
+}
+
+#v_basic {
+    margin: auto 30% auto 0;
+}
+
+#v_advanced {
+    margin: auto;
+}
+
+#advanced {
+    margin: 5px auto;
+}
+
+#even {
+    margin: auto 5% auto 0;
+}
+
+#odd {
+    margin: auto 5% auto 0;
+}
+
+#both {
+    margin: auto 5% auto 0;
+}
+
+#generate {
+    width: 50%;
+    height: 30%;
+    margin: 5px 25%;
+    border: none;
+    background-color: #0046de;
+    color: white;
+}
+
+#generate:hover {
+    background-color: #00aa00;
+}
+
+#result {
+    text-align: center;
+    font-weight: bold;
+}
+
+body {
+    background-color: #7afbff;
+}
